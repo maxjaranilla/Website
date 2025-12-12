@@ -1,0 +1,19 @@
+@import url(http://127.0.0.1:3000/index.html?serverWindowId=21b6ca33-2310-47b2-9933-dc6c3f5733a6);
+
+body
+{
+--tab-bg: #EEE;
+--tab-bg-active: black;
+--tab-text: black;
+--tab-text-actives: white;
+padding: 2rem;
+}
+
+.tab-menu
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
